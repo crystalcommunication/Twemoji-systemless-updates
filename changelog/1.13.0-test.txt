@@ -1,5 +1,0 @@
-UPDATER TEST WARNING!
-
-This updater is not yet finished, it is currently only used for testing the basic update functionality...
-
-If you proceed, Twemoji-systemless v1.13.0 (WITHOUT SUPPORT FOR THIS UPDATER!) will be installed to your device. Please proceed with caution or wait for v1.13.0u to arrive with the updater integrated.
