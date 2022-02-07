@@ -1,0 +1,5 @@
+Impressive that you found this changelog since this is the first version that actually supports the updater...
+
+Anyway, you are about to install Twemoji-systemless v13.1.0u.
+
+This is a small patch that adds support for the new module update system in Magisk v24.0 and up. After installing this package, new updates to Twemoji-systemless will be delivered to you through the Magisk application. If a new version of Twemoji-systemless is available, an update button will appear on the module's card in the list of modules. You will be able read the update notes, download, and install the new version. This will make it much easier to get the latest new Unicode emojis as Twemoji (and this module) are updated to support them, even on a devices with older Android versions.
