@@ -1,0 +1,3 @@
+This update introduces jdecked's Twemoji fork, including support for Unicode 15.0 with 20+ new emojis.
+
+NOTICE: If you choose to install this update, the update package and all future update checks will be downloaded from sc.cryxtal.org instead of GitHub. You must install this update before you will be able to recieve future updates.
